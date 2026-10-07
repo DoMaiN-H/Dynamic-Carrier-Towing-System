@@ -1,0 +1,8 @@
+# Carrier Towing System (CTS) runtime dependencies
+# Verified on Python 3.13 with the versions shown.
+
+numpy>=2.3,<3
+scipy>=1.16,<2
+pydantic>=2.12,<3
+casadi>=3.8,<4
+matplotlib>=3.10,<4
